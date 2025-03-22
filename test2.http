@@ -1,0 +1,6 @@
+@baseUrl = http://localhost:5000/api
+
+@authToken = eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjY3ZGU4YzhmOWQ2ZDcyMWFmMGIwNDQ5OCIsImlhdCI6MTc0MjY0ODA2NCwiZXhwIjoxNzQyNzM0NDY0fQ.8oZPd1vq6uuNe5jIg68A3mrVq4Fdf2sIYVhkKoSA3iA
+POST   {{baseUrl}}/wallets/transfer
+Authorization: Bearer {{authToken}}
+

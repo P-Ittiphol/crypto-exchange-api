@@ -1,0 +1,1 @@
+require('./index'); // สำหรับเรียกใช้งาน seed โดยใช้คำสั่ง node seeds/seed-runner.js
