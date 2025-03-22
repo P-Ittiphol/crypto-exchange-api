@@ -1,5 +1,8 @@
 # ระบบซื้อขายเงินดิจิทัล (Cryptocurrency Exchange API)
 
+![ERDiagram](https://github.com/user-attachments/assets/96435ddf-cc5d-48de-8292-4cf38cfc3731)
+
+
 ระบบ API สำหรับซื้อขายเงินดิจิทัลพร้อมระบบจัดการกระเป๋าเงิน ระบบสมาชิก และการทำธุรกรรม
 
 ## คุณสมบัติ
